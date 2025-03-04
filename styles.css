@@ -70,7 +70,10 @@ img {
 	border-radius: 10px;
 }
 
-main a[href
+main a[href ="malito:"] {
+	color: #ff5722;
+	font-weight: bold;
+}
 
 	
 	
