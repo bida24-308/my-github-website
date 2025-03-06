@@ -20,7 +20,7 @@ header h1 {
 }
 
 nav a { 
-	color: white;
+	color: red;
 	text-decoration: none;
 	margin: 0 10px;
 }
@@ -75,6 +75,8 @@ main a[href ="malito:"] {
 	font-weight: bold;
 }
 
+.menu a {
+	color: green;
+}	
 	
-	
-
+     
