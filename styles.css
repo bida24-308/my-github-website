@@ -101,12 +101,6 @@ button:hover {
 	transform: scale[1.1]; /* Slight zoom effect */
 }
 
-.glow-text {
-	font-size: 24px;
-	color: #ff00ff;
-	text-shadow: 0 0 5px #ff00ff, 0 0 10px #ff00ff, 0 0 20px #ff00ff;
-}
-
 html {
 	scroll-behaviour: smooth;
 }
